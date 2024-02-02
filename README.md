@@ -1,1 +1,3 @@
 # Movie-Recommender-System
+
+The objective is to construct a movie recommendation system employing Collaborative Filtering and machine learning algorithms like K Nearest Neighbours. Users should receive movie suggestions by entering a specific movie title. Additionally, the system must provide recommendations based on entered criteria such as 'genre only' or 'genre and year.' To enhance the user experience, sentiment analysis is implemented to classify user comments on a given movie. Furthermore, the system incorporates Additional Content Based Filtering, utilizing a Neural Network for Matrix Factorization.
